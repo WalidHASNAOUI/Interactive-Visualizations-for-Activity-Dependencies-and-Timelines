@@ -105,7 +105,7 @@ project-management-dashboard/
 ## Authors
 
 - **Walid Hasnaoui**
-- **Ayoub Zohri**
+- **Ayoub Zouhri**
 - **Ibtissam Dahmane**
 
 ---
