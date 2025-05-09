@@ -102,14 +102,6 @@ project-management-dashboard/
 
 ---
 
-## Authors
-
-- **Walid Hasnaoui**
-- **Ayoub Zohri**
-- **Ibtissam Dahmane**
-
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
